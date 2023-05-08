@@ -15,3 +15,4 @@ Install an example.
 ```
 helm install ahoy examples/hello-world
 ```
+fgf
